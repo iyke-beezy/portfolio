@@ -2,6 +2,7 @@
 
 # dependencies
 /frontend_react/node_modules
+/frontend_react/package-lock.json
 /backend_sanity/node_modules
 /.pnp
 .pnp.js
