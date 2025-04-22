@@ -56,6 +56,12 @@ const Footer = () => {
 						Call Me
 					</a>
 				</div>
+				<div className="app__footer-card">
+					<img src={images.cvImage} alt="CV" />
+					<a href={images.cv} download="Isaac_Botwe_CV.pdf">
+						Download my CV
+					</a>
+				</div>
 			</div>
 
 			{!isFormSubmitted ? (

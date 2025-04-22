@@ -38,6 +38,8 @@ import spotify from "../assets/spotify.png";
 import logoName2 from "../assets/LOGONAME2.png";
 import logoName from "../assets/LOGONAME.png";
 import tree from "../assets/tree.png";
+import cv from "./../assets/cv.pdf"
+import cvImage from "../assets/cv-image.png"
 
 export default {
 	email,
@@ -76,4 +78,6 @@ export default {
 	logoName,
 	logoName2,
 	tree,
+	cv,
+	cvImage
 };
