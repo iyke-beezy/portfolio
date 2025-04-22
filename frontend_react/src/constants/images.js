@@ -35,6 +35,10 @@ import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
 
+import logoName2 from "../assets/LOGONAME2.png";
+import logoName from "../assets/LOGONAME.png";
+import tree from "../assets/tree.png";
+
 export default {
 	email,
 	mobile,
@@ -69,4 +73,7 @@ export default {
 	nb,
 	skype,
 	spotify,
+	logoName,
+	logoName2,
+	tree,
 };
