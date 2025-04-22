@@ -4,8 +4,14 @@
 /frontend_react/node_modules
 /frontend_react/package-lock.json
 /backend_sanity/node_modules
+/reverseProxy/node_modules
+/reverseProxy/package-lock.json
+/reverseProxy/private.key
+/reverseProxy/public.key
+/reverseProxy/.env
 /.pnp
 .pnp.js
+.env
 
 # testing
 /coverage
